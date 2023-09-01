@@ -13,8 +13,10 @@ HOW TO RUN :
 3. Now, in your C drive, find Xampp folder, then inside that go to htdocs. if you have not changed the default install then you will be able to find it here - C:\xampp\htdocs
 4. Now download and paste this repository in the above directory.
 5. Start Apache server from Xampp control panel.
-6. ![Screenshot 2023-08-30 121544](https://github.com/Rathode117/PHP_FormValidation/assets/112964733/1e1542b1-fd0c-4ae9-a5fc-ec7b3ad6160d)
+6.![controlpanel](https://github.com/Rathode117/PHP-Form-Validation/assets/112964733/e4859c26-98ab-4989-bc1f-1ce9c2889672)
+
 
 7. Now on your browser go to this link - http://localhost/PHP%20Forms/
 8. Now click on the Form.php
-![Screenshot 2023-08-30 121426](https://github.com/Rathode117/PHP_FormValidation/assets/112964733/4361f273-096b-43f2-a0d0-f55029516969)
+![Form](https://github.com/Rathode117/PHP-Form-Validation/assets/112964733/8a5d9e3a-c851-4d28-96da-ecd8f4219ac4)
+
